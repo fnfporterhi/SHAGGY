@@ -1,0 +1,5 @@
+{
+    "editor.experimental.pasteActions.enabled": true,
+    "editor.formatOnPaste": true,
+    "ipynb.experimental.pasteImages.enabled": true
+}
